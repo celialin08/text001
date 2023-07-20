@@ -1,0 +1,300 @@
+/*HTML 標籤教學 - 小節作業*/
+
+
+/* .style{
+    font-weight: bold;
+}
+.link{
+    text-decoration: none;
+    color: #ff0000;
+}
+.link:hover{
+    color: #2600ff;
+}
+.hotlist{
+    list-style: none;
+}
+.hotlist a{
+    text-decoration: none;
+} */
+/*CSS 樣式小節作業*/
+/* .main{
+    max-width: 1000px;
+}
+.blue{
+    color: blue;
+    font-size: 50px;
+    font-family: Arial;
+}
+.black{
+    color: black;
+    font-size: 27px;
+    font-family: Arial;
+    font-weight: bold;
+    text-indent: 50px;
+}
+.red{
+    color: #ff0000;
+}
+.red:hover{
+    color: #2600ff;
+}
+h2{
+    font-size: 50px;
+    font-family: Arial;
+    border-left: 10px solid #ff0000 ;
+    border-bottom:20px solid #ff0000 ;
+}
+
+
+.list li{
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+.list-line{
+    text-decoration: line-through;
+}
+.logo-border{
+    border: 20px solid #838383;
+} */
+/*課前最終作業*/
+/* .warp{
+    width: 900px;
+    margin: 0 auto;
+}
+.header{
+    border: 1px solid #2c2c2c;
+    padding: 40px;
+}
+.header img{
+    width: 20%;
+}
+.contant{
+    border: 3px solid #e90303;
+    padding: 30px 30px 150px 30px;
+}
+.contant p{
+    line-height: 20px;
+    color: #032db4;
+    margin-bottom: 20px;
+}
+.contant a{
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    text-decoration: none;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #032db4;
+}
+.footer p{
+    text-align: center;
+    padding: 20px 0 20px 0;
+    background-color: #ffc8d2;
+} */
+
+/*課前最終作業*/
+   
+/* .warp{
+    margin: 0 auto;
+
+}
+.header{
+  max-width:1296px;
+  margin: 0 auto;
+}
+.header img,.header h1,.header h2{
+    letter-spacing: 0.12em;
+    font-size: 128px;
+    vertical-align: middle;
+}
+.header h1{
+    width: 370px;
+    margin: 160px 0 0 0;
+}
+.header h1:hover{
+    color: #ae0000;
+}
+
+.header img{
+    width: 636px;
+    margin: 0 0 0 320px;
+}
+.header h2{
+    width: 622px;
+    margin: 0 0 0 660px;
+}
+.content-info{
+    padding: 48px 0px;
+    background: #EFEFEF;
+}
+.content-txt{ 
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 340px;
+}
+.content-txt p{
+    width: 587px;
+    color: #000;
+    font-size: 32px;
+}
+.content-bottom{
+    display: block;
+    max-width:1296px;
+    margin:0 auto;
+    padding: 80px 0 0 0;
+}
+.content-box{
+    display: block;
+    width: 636px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.content-box a{
+    color: #000;
+    text-decoration: none;
+}
+.content-box li{
+    padding: 0 0 10px 0;
+}
+.content-title{
+    width: 636px;
+    color: #ae0000;
+    font-size: 40px;
+    font-weight: 400;
+    border-bottom: 3px solid #ae0000;
+    margin-bottom: 16px;
+    line-height:40px;
+}
+
+.content-bottom-date{
+    width: 636px;
+    margin-top: 12px;
+    color: #949494;
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer{
+    background-color: #000;
+    padding:64px 0 64px 824px;
+}
+.footer-img{
+    margin-right: 40px;
+} */
+
+
+/*Flex小節作業
+/* body{
+    font-family: Verdana;
+    line-height: 1.5;
+}
+.wrap{
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.header{
+    margin-bottom: 30px;
+}
+.content{
+    margin-bottom: 20px;
+}
+.course{
+    display: flex;
+    justify-content: space-around;
+}
+.course-item{
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    box-shadow: 0px 3px 3px #cfcece;
+    border-radius: 0 0 5px 5px;
+    padding: 0 0 10px 0;
+    width: 300px;
+}
+.course-item h2{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.course-item p{
+    font-size: 15px;
+    padding: 0px 26px 0 26px;
+}
+.course-item ul{
+    list-style: disc;
+    list-style-position: inside;
+    text-indent: 30px;
+    font-size: 15px;
+}
+
+
+.footer{
+    background:gray;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}    */
+/*pixel perfect kata*/
+* {
+    box-sizing:border-box;
+    margin: 0;
+   }
+body {
+    font-family: 'Castoro', serif;
+    vertical-align: middle;
+    
+   }
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1{
+    font-size: 20px;
+    line-height: 1.2;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+.container{
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.main{
+
+    display: flex;
+}
+.main-1{
+    margin: 0 auto;
+    display: flex;
+}
+
+.up{
+    display: flex;
+    margin: 0 0 24px 0;
+}
+
+
+
+
+.txt{
+    display: flex;
+    margin: 0 20px 0 20px;
+}
+.footer{
+    line-height: 1.5;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+
+
